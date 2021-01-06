@@ -62,7 +62,7 @@ ms.locfileid: "97642759"
   
 4.  `Start-ClusterNode` を指定した `-FixQuorum` を使用して、クラスター サービスを強制的に起動します。  
   
-5.  `Get-ClusterNode` を指定した `-Propery NodeWieght = 1` を使用して、ノードがクォーラムの投票メンバーであることを保証する値を設定します。  
+5.  `Get-ClusterNode` を指定した `-Property NodeWieght = 1` を使用して、ノードがクォーラムの投票メンバーであることを保証する値を設定します。  
   
 6.  クラスター ノードのプロパティを判読可能な形式で出力します。  
   
